@@ -472,7 +472,7 @@ export default function Component() {
         <div className="flex items-center gap-6">
           <div className="w-24 h-24 rounded-full overflow-hidden bg-[#373737]">
             <Image
-              src="/profileTemporary.jpg?height=96&width=96"
+              src="https://github.com/isaac-const.png"
               alt="Isaac Costa Silva"
               width={96}
               height={96}
